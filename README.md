@@ -21,7 +21,7 @@ With the help of Machine Learning model we have Predicted the used Hyundai car p
 
 
 
-# Discription
+# Description
 
 Objective: Build a Linear Regression ML model to predict used car prices based on various features.
 
